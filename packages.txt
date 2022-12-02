@@ -1,0 +1,30 @@
+material ui:
+
+    @mui/material
+    @emotion/react
+    @emotion/styled
+    @mui/x-data-grid 
+    @mui/icons-material
+
+router:
+    react-router-dom@6
+
+sidebar:
+    react-pro-sidebar 
+
+validation:     
+    formik
+    yup
+
+calendar:
+    @fullcalendar/core 
+    @fullcalendar/daygrid 
+    @fullcalendar/timegrid
+    @fullcalendar/list
+
+charts:
+    @nivo/core
+    @nivo/pie
+    @nivo/line
+    @nivo/bar
+    @nivo/geo
