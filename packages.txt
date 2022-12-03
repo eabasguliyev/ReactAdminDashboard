@@ -17,10 +17,12 @@ validation:
     yup
 
 calendar:
+    @fullcalendar/react
     @fullcalendar/core 
     @fullcalendar/daygrid 
     @fullcalendar/timegrid
     @fullcalendar/list
+    @fullcalendar/interaction
 
 charts:
     @nivo/core
