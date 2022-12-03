@@ -10,7 +10,7 @@ router:
     react-router-dom@6
 
 sidebar:
-    react-pro-sidebar 
+    react-pro-sidebar@0.7.1
 
 validation:     
     formik
