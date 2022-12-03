@@ -22,7 +22,7 @@ function App() {
     <ColorModeContext.Provider value={colorMode}>
       <ThemeProvider theme={theme}>
         <CssBaseline />
-        <div className="app">
+        <div className="app" style={{ height: "130vh" }}>
           <NavBar />
           <main className="content">
             <AppBar />
